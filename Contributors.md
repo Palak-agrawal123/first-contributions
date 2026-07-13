@@ -197,6 +197,7 @@ niceshowmini
 - [Gerardo Martinez](https://github.com/hackmaster101/first-contributions)
 - Abhijnya K G(https://github.com/Abhijnya002)
 - [Homam] (https://github.com/ahmadhomam)
+- palak agrawal (https://github.com/Palak-agrawal123)
 - [Pranshi Singh] (https://github.com/stryo2)
 - [Shiraptinath](https://github.com/Shirapti-nath)
 - [Yishith Vilas](https://github.com/YiVibro)
